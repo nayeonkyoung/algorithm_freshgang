@@ -1,7 +1,7 @@
 import java.util.Stack;
 class Solution {
     public int[] solution(int[] heights) {
-        Stack<Integer>stk = new Stack<>();
+        Stack<Integer> stk = new Stack<>();
         int[] answer = new int[heights.length];
         for(int i = 0 ; i < heights.length ; i++) {
         	stk.push(heights[i]);
