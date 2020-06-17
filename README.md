@@ -1,5 +1,5 @@
 # 선영이랑 연경이랑 알고리즘 푸는 거
-## 이번주 문제 (6.8 ~ 6.14) 😺
+## 이번주 문제 (6.29 ~ 7. 5) 😺
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 
 <br>
